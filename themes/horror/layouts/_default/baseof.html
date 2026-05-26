@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
+  <meta name="description" content="{{ block "description" . }}{{ .Site.Params.ai_disclosure }}{{ end }}">
+  {{ block "og" . }}{{ end }}
+  {{ block "schema" . }}{{ end }}
+  <link rel="stylesheet" href="/css/horror.css">
+</head>
+<body>
+  <header>
+    <a href="/" class="site-title">{{ .Site.Title }}</a>
+    <p class="disclosure">{{ .Site.Params.ai_disclosure }}</p>
+  </header>
+  <main>{{ block "main" . }}{{ end }}</main>
+  <footer><p>&copy; {{ now.Year }} {{ .Site.Title }}</p></footer>
+</body>
+</html>

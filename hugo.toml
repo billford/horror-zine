@@ -1,0 +1,21 @@
+baseURL = "https://billford.github.io/horror-zine/"
+locale = "en-us"
+title = "The Cryptkeeper's Quarterly"
+theme = "horror"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params]
+  ai_disclosure = "All articles are AI-generated and editorially reviewed."
+  author = "The Editor"
+
+[taxonomies]
+  genre = "genres"
+  content_type = "content_types"
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5

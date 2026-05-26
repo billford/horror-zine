@@ -1,0 +1,19 @@
+{{ define "title" }}{{ .Title }} — {{ .Site.Title }}{{ end }}
+{{ define "description" }}{{ .Params.description }}{{ end }}
+{{ define "og" }}
+<meta property="og:title" content="{{ .Title }}">
+<meta property="og:description" content="{{ .Params.description }}">
+<meta property="og:image" content="{{ .Site.BaseURL }}{{ .Params.og_image }}">
+<meta property="og:type" content="article">
+{{ end }}
+{{ define "main" }}
+<article>
+  <h1>{{ .Title }}</h1>
+  {{ with .Params.image }}<img src="{{ . }}" alt="{{ $.Title }}">{{ end }}
+  <div class="meta">
+    {{ with .Params.film_year }}<span>{{ . }}</span>{{ end }}
+    {{ with .Params.director }} · Dir. {{ . }}{{ end }}
+  </div>
+  {{ .Content }}
+</article>
+{{ end }}
