@@ -23,7 +23,13 @@
   {{ $issueArticles := where $articles "Params.issue" $issueNum }}
   {{ if $issueArticles }}
   <section class="issue">
-    <h2 class="issue-heading">Issue #{{ $issueNum }}</h2>
+    <h2 class="issue-heading">
+      Issue #{{ $issueNum }}
+      {{ $pdf := printf "zines/grave-matters-issue-%d.pdf" $issueNum }}
+      {{ if (fileExists (printf "static/%s" $pdf)) }}
+      <a class="pdf-link" href="{{ $.Site.BaseURL }}{{ $pdf }}" title="Download PDF">↓ PDF</a>
+      {{ end }}
+    </h2>
     <ol class="toc">
       {{ range sort $issueArticles "Date" "asc" }}
       <li class="toc-entry">

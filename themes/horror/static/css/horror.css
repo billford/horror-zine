@@ -23,3 +23,5 @@ article img { max-width: 100%; }
 .content-type { text-transform: uppercase; letter-spacing: 0.08em; }
 .content-type::after { content: " · "; }
 .film-year::before { content: ""; }
+.pdf-link { font-size: 0.7rem; font-family: 'DIN Condensed', Arial, sans-serif; letter-spacing: 0.1em; color: #c00; text-decoration: none; margin-left: 1rem; vertical-align: middle; border: 1px solid #c00; padding: 2px 8px; }
+.pdf-link:hover { background: #c00; color: #fff; }
