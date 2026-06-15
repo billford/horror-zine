@@ -50,7 +50,7 @@ Ultimately, *Lee Cronin's The Mummy* appears to be an exercise in subverting exp
   },
   "publisher": {
     "@type": "Organization",
-    "name": "The Cryptkeeper's Quarterly"
+    "name": "Grave Matter"
   },
   "datePublished": "2026-06-14T09:00:00Z",
   "image": "https://billford.github.io/horror-zine/images/lee-cronins-the-mummy.webp",

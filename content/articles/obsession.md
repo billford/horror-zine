@@ -45,7 +45,7 @@ Ultimately, *Obsession* is a solid, if derivative, entry in the modern horror la
   },
   "publisher": {
     "@type": "Organization",
-    "name": "The Cryptkeeper's Quarterly"
+    "name": "Grave Matter"
   },
   "datePublished": "2026-06-14T09:00:00Z",
   "image": "https://billford.github.io/horror-zine/images/obsession.webp",

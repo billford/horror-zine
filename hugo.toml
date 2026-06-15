@@ -1,6 +1,6 @@
 baseURL = "https://billford.github.io/horror-zine/"
 locale = "en-us"
-title = "The Cryptkeeper's Quarterly"
+title = "Grave Matter"
 theme = "horror"
 
 [markup]

@@ -53,7 +53,7 @@ Ultimately, *Meat Days* is not a film for everyone. It’s short, it’s silent,
   },
   "publisher": {
     "@type": "Organization",
-    "name": "The Cryptkeeper's Quarterly"
+    "name": "Grave Matter"
   },
   "datePublished": "2026-06-14T09:00:00Z",
   "image": "https://billford.github.io/horror-zine/images/meat-days.webp",

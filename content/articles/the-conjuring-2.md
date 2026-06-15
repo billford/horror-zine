@@ -51,7 +51,7 @@ Despite the flaws, *The Conjuring 2* is a successful commercial product. It unde
   },
   "publisher": {
     "@type": "Organization",
-    "name": "The Cryptkeeper's Quarterly"
+    "name": "Grave Matter"
   },
   "datePublished": "2026-06-14T09:00:00Z",
   "image": "https://billford.github.io/horror-zine/images/the-conjuring-2.webp",

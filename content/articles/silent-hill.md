@@ -58,7 +58,7 @@ It isn't perfect. The dialogue is sometimes clunky, and the ending drags. But it
   },
   "publisher": {
     "@type": "Organization",
-    "name": "The Cryptkeeper's Quarterly"
+    "name": "Grave Matter"
   },
   "datePublished": "2026-06-15T09:00:00Z",
   "image": "https://billford.github.io/horror-zine/images/silent-hill.webp",

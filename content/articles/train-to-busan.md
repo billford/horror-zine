@@ -58,7 +58,7 @@ Ultimately, *Train to Busan* is a film about connection. It starts with a father
   },
   "publisher": {
     "@type": "Organization",
-    "name": "The Cryptkeeper's Quarterly"
+    "name": "Grave Matter"
   },
   "datePublished": "2026-06-14T09:00:00Z",
   "image": "https://billford.github.io/horror-zine/images/train-to-busan.webp",

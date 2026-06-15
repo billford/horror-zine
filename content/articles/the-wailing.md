@@ -44,7 +44,7 @@ Ultimately, *The Wailing* is a technical achievement that suffers from its own a
   },
   "publisher": {
     "@type": "Organization",
-    "name": "The Cryptkeeper's Quarterly"
+    "name": "Grave Matter"
   },
   "datePublished": "2026-06-15T09:00:00Z",
   "image": "https://billford.github.io/horror-zine/images/the-wailing.webp",

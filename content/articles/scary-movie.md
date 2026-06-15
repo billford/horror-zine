@@ -50,7 +50,7 @@ In the meantime, we wait. We wait for the 95-minute runtime to play out, we wait
   },
   "publisher": {
     "@type": "Organization",
-    "name": "The Cryptkeeper's Quarterly"
+    "name": "Grave Matter"
   },
   "datePublished": "2026-06-15T09:00:00Z",
   "image": "https://billford.github.io/horror-zine/images/scary-movie.webp",

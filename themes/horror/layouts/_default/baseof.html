@@ -11,7 +11,7 @@
 </head>
 <body>
   <header>
-    <a href="/" class="site-title">{{ .Site.Title }}</a>
+    <a href="{{ .Site.BaseURL }}" class="site-title">{{ .Site.Title }}</a>
     <p class="disclosure">{{ .Site.Params.ai_disclosure }}</p>
   </header>
   <main>{{ block "main" . }}{{ end }}</main>

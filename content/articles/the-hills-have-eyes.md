@@ -52,7 +52,7 @@ Ultimately, *The Hills Have Eyes* (2006) is a movie about the thin veneer of civ
   },
   "publisher": {
     "@type": "Organization",
-    "name": "The Cryptkeeper's Quarterly"
+    "name": "Grave Matter"
   },
   "datePublished": "2026-06-15T09:00:00Z",
   "image": "https://billford.github.io/horror-zine/images/the-hills-have-eyes.webp",
