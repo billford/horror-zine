@@ -11,8 +11,8 @@ director: "Joe Hsieh"
 genres:
   - "horror"
   - "animation"
-image: "/images/meat-days.webp"
-og_image: "/images/meat-days-og.webp"
+image: "https://billford.github.io/horror-zine/images/meat-days.webp"
+og_image: "https://billford.github.io/horror-zine/images/meat-days-og.webp"
 ai_generated: true
 ---
 

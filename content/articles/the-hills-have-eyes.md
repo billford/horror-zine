@@ -11,8 +11,8 @@ director: "Alexandre Aja"
 genres:
   - "horror"
   - "thriller"
-image: "/images/the-hills-have-eyes.webp"
-og_image: "/images/the-hills-have-eyes-og.webp"
+image: "https://billford.github.io/horror-zine/images/the-hills-have-eyes.webp"
+og_image: "https://billford.github.io/horror-zine/images/the-hills-have-eyes-og.webp"
 ai_generated: true
 ---
 

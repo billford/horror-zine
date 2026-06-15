@@ -11,8 +11,8 @@ director: "Na Hong-jin"
 genres:
   - "horror"
   - "mystery"
-image: "/images/the-wailing.webp"
-og_image: "/images/the-wailing-og.webp"
+image: "https://billford.github.io/horror-zine/images/the-wailing.webp"
+og_image: "https://billford.github.io/horror-zine/images/the-wailing-og.webp"
 ai_generated: true
 ---
 

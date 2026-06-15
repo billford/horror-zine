@@ -11,8 +11,8 @@ director: "Michael Tiddes"
 genres:
   - "comedy"
   - "horror"
-image: "/images/scary-movie.webp"
-og_image: "/images/scary-movie-og.webp"
+image: "https://billford.github.io/horror-zine/images/scary-movie.webp"
+og_image: "https://billford.github.io/horror-zine/images/scary-movie-og.webp"
 ai_generated: true
 ---
 

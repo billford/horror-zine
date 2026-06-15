@@ -12,8 +12,8 @@ genres:
   - "horror"
   - "mystery"
   - "science-fiction"
-image: "/images/backrooms.webp"
-og_image: "/images/backrooms-og.webp"
+image: "https://billford.github.io/horror-zine/images/backrooms.webp"
+og_image: "https://billford.github.io/horror-zine/images/backrooms-og.webp"
 ai_generated: true
 ---
 

@@ -13,8 +13,8 @@ genres:
   - "thriller"
   - "action"
   - "adventure"
-image: "/images/train-to-busan.webp"
-og_image: "/images/train-to-busan-og.webp"
+image: "https://billford.github.io/horror-zine/images/train-to-busan.webp"
+og_image: "https://billford.github.io/horror-zine/images/train-to-busan-og.webp"
 ai_generated: true
 ---
 

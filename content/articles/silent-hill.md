@@ -11,8 +11,8 @@ director: "Christophe Gans"
 genres:
   - "horror"
   - "mystery"
-image: "/images/silent-hill.webp"
-og_image: "/images/silent-hill-og.webp"
+image: "https://billford.github.io/horror-zine/images/silent-hill.webp"
+og_image: "https://billford.github.io/horror-zine/images/silent-hill-og.webp"
 ai_generated: true
 ---
 

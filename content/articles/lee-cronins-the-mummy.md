@@ -11,8 +11,8 @@ director: "Lee Cronin"
 genres:
   - "horror"
   - "mystery"
-image: "/images/lee-cronins-the-mummy.webp"
-og_image: "/images/lee-cronins-the-mummy-og.webp"
+image: "https://billford.github.io/horror-zine/images/lee-cronins-the-mummy.webp"
+og_image: "https://billford.github.io/horror-zine/images/lee-cronins-the-mummy-og.webp"
 ai_generated: true
 ---
 

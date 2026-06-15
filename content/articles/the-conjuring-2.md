@@ -10,8 +10,8 @@ film_year: 2016
 director: "James Wan"
 genres:
   - "horror"
-image: "/images/the-conjuring-2.webp"
-og_image: "/images/the-conjuring-2-og.webp"
+image: "https://billford.github.io/horror-zine/images/the-conjuring-2.webp"
+og_image: "https://billford.github.io/horror-zine/images/the-conjuring-2-og.webp"
 ai_generated: true
 ---
 

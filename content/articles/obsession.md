@@ -10,8 +10,8 @@ film_year: 2026
 director: "Curry Barker"
 genres:
   - "horror"
-image: "/images/obsession.webp"
-og_image: "/images/obsession-og.webp"
+image: "https://billford.github.io/horror-zine/images/obsession.webp"
+og_image: "https://billford.github.io/horror-zine/images/obsession-og.webp"
 ai_generated: true
 ---
 
