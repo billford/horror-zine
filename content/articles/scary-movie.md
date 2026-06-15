@@ -1,3 +1,21 @@
+---
+title: "Scary Movie"
+date: 2026-06-15T09:00:00Z
+slug: "scary-movie"
+description: "Welcome back to the theater, or at least the imaginary one in your head. The year is 2026, and despite our collective desire to stay home and stream…"
+content_type: "review"
+tmdb_id: 1273221
+film_title: "Scary Movie"
+film_year: 2026
+director: "Michael Tiddes"
+genres:
+  - "comedy"
+  - "horror"
+image: "/images/scary-movie.webp"
+og_image: "/images/scary-movie-og.webp"
+ai_generated: true
+---
+
 Welcome back to the theater, or at least the imaginary one in your head. The year is 2026, and despite our collective desire to stay home and stream whatever streaming service currently owns the rights to a remastered version of *Scooby-Doo*, the Wayans clan has decided that horror movie franchises are not yet exhausted. *Scary Movie* is officially back in the oven, currently listed in "Post Production" status, and it’s serving up a fresh batch of meta-horror satire for a new generation—or perhaps the same old generation that just can't let go.
 
 It has been twenty-six years since the original Core Four dodged a "suspiciously familiar masked killer." That is a long time for a comedy franchise to incubate. Usually, by the two-decade mark, you are waiting for a remake or a gritty reboot that removes all the jokes. Instead, we get this. The 95-minute runtime  suggests the filmmakers have no intention of letting the audience overthink the plot. They just want you to laugh while things explode, a strategy that is as timeless as the slasher genre they are dismantling.
@@ -19,3 +37,23 @@ As the status remains "Post Production," we haven't seen the final cut. But the 
 Whether this is a love letter to the genre or a cash grab for the Wayans brand is the million-dollar question. With Anna Faris effectively replaced by her digital likeness or a legacy character, and Friedberg and Seltzer handling the character beats, the film seems to be banking on name recognition and the comfort of familiarity. It is a comfort that only true fans of the genre (and its subversion) will truly appreciate.
 
 In the meantime, we wait. We wait for the 95-minute runtime to play out, we wait for the jump scares, and we wait to see exactly how much "line crossing" they promised in the tagline. Until then, the movie is in the can—or at least, that's what they tell us. It is the horror of the unknown, and it is coming to a theater near you.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Scary Movie",
+  "description": "Welcome back to the theater, or at least the imaginary one in your head. The year is 2026, and despite our collective desire to stay home and stream\u2026",
+  "author": {
+    "@type": "Person",
+    "name": "The Editor"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "The Cryptkeeper's Quarterly"
+  },
+  "datePublished": "2026-06-15T09:00:00Z",
+  "image": "https://billford.github.io/horror-zine/images/scary-movie.webp",
+  "url": "https://billford.github.io/horror-zine/articles/scary-movie/"
+}
+</script>
