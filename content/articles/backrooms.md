@@ -14,6 +14,7 @@ genres:
   - "science-fiction"
 image: "https://billford.github.io/horror-zine/images/backrooms.webp"
 og_image: "https://billford.github.io/horror-zine/images/backrooms-og.webp"
+issue: 1
 ai_generated: true
 ---
 
@@ -49,7 +50,7 @@ Ultimately, *Backrooms* is a successful atmospheric exercise, though perhaps not
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Grave Matter"
+    "name": "Grave Matters"
   },
   "datePublished": "2026-06-14T09:00:00Z",
   "image": "https://billford.github.io/horror-zine/images/backrooms.webp",

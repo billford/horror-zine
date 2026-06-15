@@ -1,8 +1,43 @@
 {{ define "main" }}
-<h1>{{ .Site.Title }}</h1>
-<ul>
-{{ range first 10 (where .Site.RegularPages "Section" "articles") }}
-  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+<div class="masthead">
+  {{ if (fileExists "static/images/logo.webp") }}
+  <img src="{{ .Site.BaseURL }}images/logo.webp" alt="{{ .Site.Title }}" class="site-logo">
+  {{ else }}
+  <h1 class="site-title-large">{{ .Site.Title }}</h1>
+  {{ end }}
+  <p class="tagline">Horror cinema. No mercy.</p>
+</div>
+
+{{ $articles := where .Site.RegularPages "Section" "articles" }}
+
+{{/* Find max issue number */}}
+{{ $maxIssue := 0 }}
+{{ range $articles }}
+  {{ $n := .Params.issue | int }}
+  {{ if gt $n $maxIssue }}{{ $maxIssue = $n }}{{ end }}
 {{ end }}
-</ul>
+
+{{/* Render newest issue first */}}
+{{ range seq $maxIssue }}
+  {{ $issueNum := sub (add $maxIssue 1) . }}
+  {{ $issueArticles := where $articles "Params.issue" $issueNum }}
+  {{ if $issueArticles }}
+  <section class="issue">
+    <h2 class="issue-heading">Issue #{{ $issueNum }}</h2>
+    <ol class="toc">
+      {{ range sort $issueArticles "Date" "asc" }}
+      <li class="toc-entry">
+        <a href="{{ .RelPermalink }}" class="toc-link">
+          <span class="toc-title">{{ .Title }}</span>
+          <span class="toc-meta">
+            {{ with .Params.content_type }}<span class="content-type">{{ . }}</span>{{ end }}
+            {{ with .Params.film_year }}<span class="film-year">{{ . }}</span>{{ end }}
+          </span>
+        </a>
+      </li>
+      {{ end }}
+    </ol>
+  </section>
+  {{ end }}
+{{ end }}
 {{ end }}

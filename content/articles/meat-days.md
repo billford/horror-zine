@@ -13,6 +13,7 @@ genres:
   - "animation"
 image: "https://billford.github.io/horror-zine/images/meat-days.webp"
 og_image: "https://billford.github.io/horror-zine/images/meat-days-og.webp"
+issue: 1
 ai_generated: true
 ---
 
@@ -53,7 +54,7 @@ Ultimately, *Meat Days* is not a film for everyone. It’s short, it’s silent,
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Grave Matter"
+    "name": "Grave Matters"
   },
   "datePublished": "2026-06-14T09:00:00Z",
   "image": "https://billford.github.io/horror-zine/images/meat-days.webp",

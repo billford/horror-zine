@@ -13,6 +13,7 @@ genres:
   - "horror"
 image: "https://billford.github.io/horror-zine/images/scary-movie.webp"
 og_image: "https://billford.github.io/horror-zine/images/scary-movie-og.webp"
+issue: 1
 ai_generated: true
 ---
 
@@ -50,7 +51,7 @@ In the meantime, we wait. We wait for the 95-minute runtime to play out, we wait
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Grave Matter"
+    "name": "Grave Matters"
   },
   "datePublished": "2026-06-15T09:00:00Z",
   "image": "https://billford.github.io/horror-zine/images/scary-movie.webp",

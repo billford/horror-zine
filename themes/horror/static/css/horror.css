@@ -4,3 +4,22 @@ h1 { color: #eee; }
 .disclosure { font-size: 0.8em; color: #888; }
 article img { max-width: 100%; }
 .meta { color: #999; font-size: 0.9em; margin-bottom: 1.5rem; }
+
+/* Front page */
+.masthead { text-align: center; margin-bottom: 3rem; border-bottom: 1px solid #333; padding-bottom: 2rem; }
+.site-logo { max-width: 100%; height: auto; max-height: 220px; }
+.site-title-large { font-size: 3rem; letter-spacing: 0.05em; color: #eee; margin: 0; }
+.tagline { color: #888; font-style: italic; margin-top: 0.5rem; }
+
+.issue { margin-bottom: 3rem; }
+.issue-heading { font-size: 1.1rem; text-transform: uppercase; letter-spacing: 0.15em; color: #888; border-bottom: 1px solid #333; padding-bottom: 0.4rem; margin-bottom: 1rem; }
+
+.toc { list-style: none; padding: 0; margin: 0; counter-reset: toc-counter; }
+.toc-entry { counter-increment: toc-counter; border-bottom: 1px solid #222; }
+.toc-link { display: flex; justify-content: space-between; align-items: baseline; padding: 0.6rem 0; text-decoration: none; color: #ddd; }
+.toc-link:hover .toc-title { color: #c00; }
+.toc-title { font-size: 1.05rem; }
+.toc-meta { font-size: 0.8rem; color: #666; text-align: right; white-space: nowrap; margin-left: 1rem; }
+.content-type { text-transform: uppercase; letter-spacing: 0.08em; }
+.content-type::after { content: " · "; }
+.film-year::before { content: ""; }

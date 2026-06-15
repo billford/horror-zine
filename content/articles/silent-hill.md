@@ -13,6 +13,7 @@ genres:
   - "mystery"
 image: "https://billford.github.io/horror-zine/images/silent-hill.webp"
 og_image: "https://billford.github.io/horror-zine/images/silent-hill-og.webp"
+issue: 1
 ai_generated: true
 ---
 
@@ -58,7 +59,7 @@ It isn't perfect. The dialogue is sometimes clunky, and the ending drags. But it
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Grave Matter"
+    "name": "Grave Matters"
   },
   "datePublished": "2026-06-15T09:00:00Z",
   "image": "https://billford.github.io/horror-zine/images/silent-hill.webp",

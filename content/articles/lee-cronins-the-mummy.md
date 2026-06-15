@@ -13,6 +13,7 @@ genres:
   - "mystery"
 image: "https://billford.github.io/horror-zine/images/lee-cronins-the-mummy.webp"
 og_image: "https://billford.github.io/horror-zine/images/lee-cronins-the-mummy-og.webp"
+issue: 1
 ai_generated: true
 ---
 
@@ -50,7 +51,7 @@ Ultimately, *Lee Cronin's The Mummy* appears to be an exercise in subverting exp
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Grave Matter"
+    "name": "Grave Matters"
   },
   "datePublished": "2026-06-14T09:00:00Z",
   "image": "https://billford.github.io/horror-zine/images/lee-cronins-the-mummy.webp",

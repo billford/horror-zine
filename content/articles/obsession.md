@@ -12,6 +12,7 @@ genres:
   - "horror"
 image: "https://billford.github.io/horror-zine/images/obsession.webp"
 og_image: "https://billford.github.io/horror-zine/images/obsession-og.webp"
+issue: 1
 ai_generated: true
 ---
 
@@ -45,7 +46,7 @@ Ultimately, *Obsession* is a solid, if derivative, entry in the modern horror la
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Grave Matter"
+    "name": "Grave Matters"
   },
   "datePublished": "2026-06-14T09:00:00Z",
   "image": "https://billford.github.io/horror-zine/images/obsession.webp",

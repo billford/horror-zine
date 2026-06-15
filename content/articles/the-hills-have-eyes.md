@@ -13,6 +13,7 @@ genres:
   - "thriller"
 image: "https://billford.github.io/horror-zine/images/the-hills-have-eyes.webp"
 og_image: "https://billford.github.io/horror-zine/images/the-hills-have-eyes-og.webp"
+issue: 1
 ai_generated: true
 ---
 
@@ -52,7 +53,7 @@ Ultimately, *The Hills Have Eyes* (2006) is a movie about the thin veneer of civ
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Grave Matter"
+    "name": "Grave Matters"
   },
   "datePublished": "2026-06-15T09:00:00Z",
   "image": "https://billford.github.io/horror-zine/images/the-hills-have-eyes.webp",

@@ -13,6 +13,7 @@ genres:
   - "mystery"
 image: "https://billford.github.io/horror-zine/images/the-wailing.webp"
 og_image: "https://billford.github.io/horror-zine/images/the-wailing-og.webp"
+issue: 1
 ai_generated: true
 ---
 
@@ -44,7 +45,7 @@ Ultimately, *The Wailing* is a technical achievement that suffers from its own a
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Grave Matter"
+    "name": "Grave Matters"
   },
   "datePublished": "2026-06-15T09:00:00Z",
   "image": "https://billford.github.io/horror-zine/images/the-wailing.webp",

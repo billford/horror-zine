@@ -12,6 +12,7 @@ genres:
   - "horror"
 image: "https://billford.github.io/horror-zine/images/the-conjuring-2.webp"
 og_image: "https://billford.github.io/horror-zine/images/the-conjuring-2-og.webp"
+issue: 1
 ai_generated: true
 ---
 
@@ -51,7 +52,7 @@ Despite the flaws, *The Conjuring 2* is a successful commercial product. It unde
   },
   "publisher": {
     "@type": "Organization",
-    "name": "Grave Matter"
+    "name": "Grave Matters"
   },
   "datePublished": "2026-06-14T09:00:00Z",
   "image": "https://billford.github.io/horror-zine/images/the-conjuring-2.webp",
